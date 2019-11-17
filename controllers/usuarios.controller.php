@@ -54,7 +54,7 @@ class ControladorUsuarios{
                       echo '<br><div class="alert alert-danger">El usuario no esta activado</div>';
                   }
                 }else {
-                  echo '<br><div class="alert alert-danger">Error al iniciar sesion. Vuelve a intentar.</div>';
+                  echo '<br><div class="alert alert-danger">Error al iniciar sesion. Revise sus credenciales.</div>';
                 }
             }
         }
