@@ -6,7 +6,7 @@
               <div class="auto-form-wrapper">
                 <form action="#">
                   <div class="form-group">
-                    <label class="label">Usuario</label>
+                    <label class="label">Usuario1</label>
                     <div class="input-group">
                       <input type="text" class="form-control" placeholder="Usuario">
                       <div class="input-group-append">
